@@ -9,8 +9,7 @@ body {
 
 .mainpage {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.205), rgba(0, 0, 0, 0.637)),
-    url(./img/mp/bck_pix.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.205), rgba(0, 0, 0, 0.637)), url(./img/mp/bck_pix.png);
   background-size: cover;
   z-index: -2;
 }
