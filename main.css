@@ -10,7 +10,7 @@ body {
 .mainpage {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.205), rgba(0, 0, 0, 0.637)),
-    url(/img/mp/bck_pix.png);
+    url(./img/mp/bck_pix.png);
   background-size: cover;
   z-index: -2;
 }
@@ -126,7 +126,7 @@ body {
 .formpage {
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.637)),
-    url(/img/formpage/bcg_pix.png);
+    url(./img/formpage/bcg_pix.png);
   background-size: auto;
 }
 
